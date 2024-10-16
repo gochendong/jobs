@@ -1,2 +1,7 @@
-# jobs
-发布招聘信息 简历发送至gochendong@gmail.com
+# 招聘
+## 联系方式
+- 简历发送至 gochendong@gmail.com
+- 在线联系(私聊): https://chat.bulita.net
+
+## 历史发布
+- [[远程] C++后端开发（资深/资浅），Devops开发，SRE区块链公司](https://github.com/gochendong/jobs/issues/1) 2024-10-16
