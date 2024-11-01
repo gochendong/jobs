@@ -5,3 +5,4 @@
 
 ## 历史发布
 - [[远程] C++后端开发（资深/资浅），Devops开发，SRE区块链公司](https://github.com/gochendong/jobs/issues/1) 2024-10-16
+- [[香港] 高薪招聘Java开发](https://github.com/gochendong/jobs/issues/2) 2024-11-01
