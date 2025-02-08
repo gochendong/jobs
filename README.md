@@ -4,6 +4,7 @@
 - 在线联系(私聊布里塔): https://chat.bulita.net
 
 ## 历史发布
+- [[深圳/香港]国内某大厂招聘web3技术1号位](https://github.com/gochendong/jobs/issues/6) 2025-02-08
 - [[上海/北京/深圳/杭州] 大数据架构师 测试架构师 Java开发(需要区块链经验)](https://github.com/gochendong/jobs/issues/5) 2025-02-07
 - [[深圳/香港] 网络安全工程师 前端开发-RN Go开发工程师 高级测试工程师 产品经理](https://github.com/gochendong/jobs/issues/4) 2025-02-07
 - [[北京/深圳/上海/杭州] 互联网大厂资深算法](https://github.com/gochendong/jobs/issues/3) 2024-12-05
