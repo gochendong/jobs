@@ -1,9 +1,9 @@
 # 招聘(web3为主)
 ## 联系方式 (非内推HR, 介意勿投)
 - 简历统一发送至 gochendong@gmail.com
-- 在线联系(私聊布里塔): https://chat.bulita.net
+- 在线联系(私聊布里塔): https://chat.bulita.net (仅限工作日工作时间)
 
-## 历史发布
+## 最新发布
 - [[深圳/香港]国内某大厂招聘web3技术1号位](https://github.com/gochendong/jobs/issues/6) 2025-02-08
 - [[上海/北京/深圳/杭州] 大数据架构师 测试架构师 Java开发(需要区块链经验)](https://github.com/gochendong/jobs/issues/5) 2025-02-07
 - [[深圳/香港] 网络安全工程师 前端开发-RN Go开发工程师 高级测试工程师 产品经理](https://github.com/gochendong/jobs/issues/4) 2025-02-07
@@ -14,4 +14,7 @@
 
 ## 注意事项
 1. 应甲方要求, 公司名不公开, 可私聊或者通过邮件沟通获取
-2. 请看清楚招聘要求再投递, 邮件注明投递岗位, 否则无效
+2. 请看清楚招聘要求再投递, 邮件注明投递岗位和地点, 否则无效
+
+### 友请链接
+[v2ex, 电鸭, 脉脉等招聘信息聚合](https://bulita.net/user?username=Jobs) (筛选了部分岗位, 如果没有想要的岗位可联系[布里塔](https://chat.bulita.net)免费增加)
