@@ -17,4 +17,4 @@
 2. 请看清楚招聘要求再投递, 邮件注明投递岗位和地点, 否则无效
 
 ### 友请链接
-[v2ex, 电鸭, 脉脉等招聘信息聚合](https://bulita.net/user?username=Jobs) (筛选了部分岗位, 如果没有想要的岗位可联系[布里塔](https://chat.bulita.net)免费增加)
+[v2ex, 电鸭, 脉脉等招聘信息聚合](https://bulita.net/user?username=Jobs) (只筛选远程岗位, 如果没有想要的标签可联系[布里塔](https://chat.bulita.net)增加)
