@@ -16,3 +16,6 @@
 ## 注意事项
 1. 应甲方要求, 公司名不公开, 可[私聊](https://chat.bulita.net)或者通过邮件沟通获取
 2. 请看清楚招聘要求再投递, 邮件注明投递岗位和base地点
+
+## tg交流群
+- https://t.me/+ezVpQ3fS_mdhYzBl
